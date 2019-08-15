@@ -1,0 +1,9 @@
+{
+    "name": "involve/iframework",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "nikic/fast-route": "^1.3",
+        "symfony/var-dumper": "^4.3"
+    }
+}
